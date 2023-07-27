@@ -17,7 +17,7 @@ This is a simple weather application that allows users to check the current weat
 
 ## Preview
 
-![Example Image](manila.jpg)
+![Example Image](manila.png)
 
 ## Installation and Usage
 
